@@ -1,6 +1,6 @@
 using Projekt_MSI.Model;
 
-namespace GA.Abstracts
+namespace Projekt_MSI.Operators
 {
     public interface IMutationOperator
     {

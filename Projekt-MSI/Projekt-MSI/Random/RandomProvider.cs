@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GA.Helpers
+namespace Projekt_MSI.Helpers
 {
     public static class RandomProvider
     {

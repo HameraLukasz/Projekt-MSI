@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Linq;
-using GA.Helpers;
+using Projekt_MSI.Helpers;
 
 namespace Projekt_MSI.Model
 {
     public class Chromosome
     {
-        public bool[] Genes { get; set; }
         public Chromosome(int chromosomeSize)
         {
             var random = RandomProvider.Current;
@@ -21,6 +20,7 @@ namespace Projekt_MSI.Model
         {
         }
 
+        public bool[] Genes { get; set; }
 
 
         public bool this[int index]

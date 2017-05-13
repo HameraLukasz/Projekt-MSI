@@ -5,9 +5,6 @@ namespace Projekt_MSI.Model
 {
     public class Individual
     {
-        public Chromosome Chromosome { get; set; }
-        public double Fitness { get; set; }
-
         public Individual(int chromosomeSize)
         {
             Chromosome = new Chromosome(chromosomeSize);
@@ -17,6 +14,8 @@ namespace Projekt_MSI.Model
         {
         }
 
+        public Chromosome Chromosome { get; set; }
+        public double Fitness { get; set; }
 
 
         public void InsertGenes(int insertIndex, bool[] genes)
