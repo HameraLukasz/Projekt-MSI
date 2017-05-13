@@ -1,0 +1,13 @@
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\bin\Debug\Projekt-MSI.exe.config
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\bin\Debug\Projekt-MSI.exe
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\bin\Debug\Projekt-MSI.pdb
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\MainWindow.g.cs
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\App.g.cs
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt-MSI_MarkupCompile.cache
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt-MSI_MarkupCompile.lref
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\MainWindow.baml
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt-MSI.g.resources
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt_MSI.Properties.Resources.resources
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt-MSI.csproj.GenerateResource.Cache
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt-MSI.exe
+G:\Dokumenty\Projekt-MSI\Projekt-MSI\Projekt-MSI\obj\Debug\Projekt-MSI.pdb
